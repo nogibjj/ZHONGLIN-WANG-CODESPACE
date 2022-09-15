@@ -1,4 +1,3 @@
-
 from databricks import sql
 import os
 
