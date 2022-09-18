@@ -12,4 +12,4 @@ The dataset embedded is downloaded from Kaggle called Ethereum Transactions (htt
 Via setting secrets of tokens and hostname, we can obtain access to databricks cluster and running the task in the back-in server.
 ![WechatIMG19](https://user-images.githubusercontent.com/112585430/190887549-a1889bcb-b3f2-445c-a8af-6a316730a117.jpeg)
 ## Query function
-To get access to and search the latest ETH transactions information, I defined a query funcion to pull data from the eth database. The default will return the most recent 15 transactions including the amount, 
+To get access to and search the latest ETH transactions information, I defined a query funcion to pull data from the eth database. The default will return the most recent 15 transactions including the amount, the hash, host address.
