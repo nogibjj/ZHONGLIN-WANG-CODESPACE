@@ -8,3 +8,6 @@ Welcome to Zhonglin's project 1 repo!!!!!! The following praph presents the basi
 ## Dataset settings:
 The dataset embedded is downloaded from Kaggle called Ethereum Transactions (https://www.kaggle.com/datasets/blessontomjoseph/ethereum-transactions). ETH is a cryptocurrency which uses blockchain technology and achieves a distributed transaction. Via the tool provided by me, any users can have free access to the most recent ETH transactions.
 ![WechatIMG18](https://user-images.githubusercontent.com/112585430/190887488-fb5fa5d7-3308-4ca9-a718-2700227e695d.jpeg)
+## Connection between Codespace and Databricks
+
+![WechatIMG19](https://user-images.githubusercontent.com/112585430/190887549-a1889bcb-b3f2-445c-a8af-6a316730a117.jpeg)
