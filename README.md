@@ -16,4 +16,9 @@ To get access to and search the latest ETH transactions information, I defined a
 
 ![WechatIMG20](https://user-images.githubusercontent.com/112585430/190888153-31aa4928-8c94-4086-a61a-9a935e705d34.jpeg)
 ## Webservice via Fastapi
+first we type the following commend in the commend line in codespace:
+![image](https://user-images.githubusercontent.com/112585430/190889204-cfb704b2-c01c-482a-bfe3-237a543e908a.png)
+Then open the webpage:
 ![WechatIMG23](https://user-images.githubusercontent.com/112585430/190889169-3e4add20-2ce4-4e97-b761-e0a7390de4db.png)
+Type "query" after the "dev" in the URL bar, and wait for results to pump up
+![WechatIMG25](https://user-images.githubusercontent.com/112585430/190889338-a529380c-8f16-4fff-bf39-8b0e92139031.png)
